@@ -42,7 +42,6 @@ I enjoy working with React, Python, Java, Spring Boot, REST APIs, databases, and
 * Network Security
 * Network Forensics
 * DAST
-* Nuclei
 * OWASP ZAP
 * Burp Suite
 * Vulnerability Analysis
@@ -51,7 +50,6 @@ I enjoy working with React, Python, Java, Spring Boot, REST APIs, databases, and
 
 * AI Agents
 * MCP
-* RAG
 * Blockchain
 * Distributed Ledger Technology
 
@@ -126,7 +124,6 @@ I am exploring AI agent development and building prototypes involving:
 * MCP
 * Tool integration
 * API-based workflows
-* RAG-based applications
 
 ---
 
@@ -148,7 +145,6 @@ I am exploring AI agent development and building prototypes involving:
 * Software Engineering
 * Backend Development
 * Cybersecurity
-* AI Agent Development
 * Blockchain Applications
 
 ---
